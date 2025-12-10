@@ -1,10 +1,10 @@
 
 
-# HashGuard – CLI Antivirus Scanner
+# HashGuard – CLI Virus Scanner
 
 ![HashGuard](./img/icon.png)
 
-**HashGuard** is a lightweight, drag-and-drop CLI antivirus scanner that uses **VirusTotal** to check files for malware. It hashes any file using SHA-256, queries VirusTotal, and gives a color-coded risk rating.
+**HashGuard** is a lightweight, drag-and-drop CLI virus scanner that uses **VirusTotal** to check files for malware. It hashes any file using SHA-256, queries VirusTotal, and gives a color-coded risk rating.
 
 ---
 
@@ -31,6 +31,7 @@
 * Friendly message for unknown files: *“Very low chances of being a virus”*
 * Handles no internet connection gracefully
 * Pause at end to review results
+
 > **Note:** This only runs on Windows
 
 ---
